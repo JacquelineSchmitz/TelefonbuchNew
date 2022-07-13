@@ -7,11 +7,15 @@ import de.syntax_institut.telefonbuch.adapter.ItemAdapter
 import de.syntax_institut.telefonbuch.data.Datasource
 import de.syntax_institut.telefonbuch.data.model.Contact
 import de.syntax_institut.telefonbuch.databinding.ActivityMainBinding
+import de.syntax_institut.telefonbuch.databinding.FragmentDetailBinding
+import de.syntax_institut.telefonbuch.databinding.FragmentHomeBinding
 
 /**
  * Die Main Activity
  */
 class MainActivity : AppCompatActivity() {
+
+
 
     /**
      * Lifecycle Funktion onCreate
